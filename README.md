@@ -1,0 +1,2 @@
+# page
+ man is mortal
